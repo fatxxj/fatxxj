@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Asp Net Core Web Applications @i-solve.<br>👯 I’m looking to collaborate on asp net core rest API, nodeJS API.<br>🌱 I’m currently learning Mean Stack (nodeJS, Express, Angular, MongoDb). Fourth year student on computer engineering by Faculty of Informatics and Computer Engineering, University of Ss Cyril and Methodius, Skopje, North Macedonia.<br>
+🔭 Dev. BsC / MsC<br>
 
 
 ## 🌐 Socials:
